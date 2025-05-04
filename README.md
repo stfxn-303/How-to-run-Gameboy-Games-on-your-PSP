@@ -2,6 +2,8 @@
 A guide on Gameboy Advanced Emulation on PSPs for complete beginners
 
 
+---
+
 ⚠️ So you’ve already modded your PSP-3000 (good job 👍), and now you’re ready to jump into some Game Boy Advance nostalgia — *Pokemon FireRed*, *Metroid Fusion*, *Golden Sun*, you name it.
 And if you haven't modded your PSP-3000 with Custom Firmware installed-don't worry, i've made  a guide on that too, check [this](https://github.com/stfxn-303/Beginners-Guide-to-Modding-PSP3000)  out first and come back once you've figured it out: 
 
